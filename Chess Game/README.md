@@ -26,7 +26,7 @@ Technologies Used:
   EJS – Templating engine for rendering HTML
   Tailwind CSS – Utility-first CSS framework
   chess.js – JavaScript library for chess logic and validation
-Future Improvements
+Future Improvements:
   Add timer functionality for competitive play
   Show captured pieces and game history
   Implement user authentication and matchmaking
